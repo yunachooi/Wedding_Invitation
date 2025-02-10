@@ -10,3 +10,5 @@
 <img width="1552" alt="스크린샷 2025-02-10 17 13 52" src="https://github.com/user-attachments/assets/9d420c9b-2ac5-4da9-a1d2-4c80e89d44a4" />
 <img width="1552" alt="스크린샷 2025-02-10 17 14 03" src="https://github.com/user-attachments/assets/0929e077-dc13-459e-ba74-ed16cb7ebea9" />
 <img width="1552" alt="스크린샷 2025-02-10 17 14 16" src="https://github.com/user-attachments/assets/7a81391a-a3c6-4db9-95d4-bcc5b9013389" />
+
+참고 : https://github.com/jimin-coco/wedding-invitation
