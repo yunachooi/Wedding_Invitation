@@ -1,4 +1,4 @@
-# WeddingInvitation
+# wedding-invite
 > 프로젝트 기간 : 2024년 10월 11일 ~ 2024년 11월 23일 <br>
 프로젝트 참여 : 최유나, 문성식 <br>
 <img width="1552" alt="스크린샷 2025-02-10 17 13 07" src="https://github.com/user-attachments/assets/799d7367-ff51-432c-ba6c-6cc393ee7e56" />
